@@ -1,0 +1,129 @@
+{
+  "name": "DragonsHeaven (DXH)",
+  "description": "Moebius-inspired, cel-animation aesthetic with organic-mechanical hybrid world-building, post-apocalyptic environments, and expressive hand-inked linework. Based on the DXH style canon.",
+  "version": "1.0.0",
+  "templates": [
+    "dxh style, {camera}, {subject} with {surface_condition}, {environment}, {sky}, {atmosphere}. {linework}, {palette}. {mood}",
+    "dxh style, {camera}, {subject} in {action_state}, {environment} under {sky}. {surface_condition}, {atmosphere}. {linework}, {palette}. {mood}",
+    "dxh style, {camera}, {figure} amid {environment}, {sky}, {atmosphere}. {linework}, {palette}. {mood}",
+    "dxh style, {camera}, {subject} and {figure}, {environment}, {sky}. {surface_condition}. {linework}, {palette}. {mood}",
+    "dxh style, {camera}, close-up of {subject}, {surface_condition}, {sensor_glow} sensor glow. {atmosphere}. {linework}, {palette}. {mood}",
+    "dxh style, {camera}, {figure} in {action_state} against {sky}, {environment}. {atmosphere}. {linework}, {palette}. {mood}",
+    "dxh style, {camera}, {subject} emerging from {environment}, {surface_condition}, {atmosphere}, {sky}. {linework}, {palette}. {mood}"
+  ],
+  "pools": {
+    "subject": [
+      "towering dormant war machine with monolithic torso and segmented carapace",
+      "colossal war machine with insectoid armour and layered pauldrons",
+      "battle-worn chassis with asymmetric silhouette and articulated limbs",
+      "organic-mechanical hybrid form with clawed manipulators",
+      "dormant mech with compound optical sensors dark and unpowered",
+      "awakening war machine with riveted plating and gaping maw-like aperture",
+      "crashed organic-mechanical hull with shattered compound optical sensors",
+      "massive segmented carapace with exposed hydraulic cables and weld scars",
+      "monolithic torso with impact craters and cracked enamel coating",
+      "insectoid war machine with oil-slick iridescent surface"
+    ],
+    "figure": [
+      "slim naturalistic figure in wrapped layered clothing with long scarf trailing",
+      "hooded figure in worn leather vest with flight goggles and determined expression",
+      "slim figure with short cropped hair and expressive ink-lined weathered face",
+      "crouching figure in wrapped layers and hooded cape",
+      "contemplative figure in layered clothing seated at water's edge",
+      "slim figure standing with one hand resting on weapon at side",
+      "hooded figure in long scarf with action pose and determined expression"
+    ],
+    "action_state": [
+      "dormant awakening",
+      "active aggressive stance",
+      "mid-crash descent",
+      "overgrown and ruined",
+      "suspended mid-impact with motion blur",
+      "emitting luminous energy beam from maw aperture",
+      "engulfed in orange-red flame bursts",
+      "contemplative seated posture",
+      "crouching in ruins"
+    ],
+    "surface_condition": [
+      "rust-streaked surface with scorched panels and exposed hydraulic cables",
+      "corroded hull with cracked enamel coating and oil-slick iridescence",
+      "battle-worn chassis with impact craters and weld scars",
+      "scorched panels with dangling hydraulic cables and deep rust ochre streaks",
+      "corroded hull with moss green overgrowth encroaching on riveted plating",
+      "oil-slick iridescent surface with exposed weld seams and cracked plating",
+      "impact-cratered carapace with burnt sienna rust streaks"
+    ],
+    "sensor_glow": [
+      "crimson",
+      "pale cerulean",
+      "pale green",
+      "pale yellow",
+      "vivid red"
+    ],
+    "environment": [
+      "post-apocalyptic wasteland with rust-earth terrain and crumbling stone masonry",
+      "rust-earth terrain with dense tropical overgrowth and crumbling masonry",
+      "cracked dry ground with sparse tangled root systems and exposed metal framework",
+      "rust-earth terrain bordering a serene blue-green lagoon",
+      "sandy dunes with crumbling stone masonry fused with dormant machine silhouettes",
+      "reflective water pools amid rust-earth terrain and overgrown ruins",
+      "fog-filled valley with crumbling stone masonry and dense overgrowth",
+      "wasteland terrain with structural remnants and deep shadow fill"
+    ],
+    "sky": [
+      "storm-lit clouds with cerulean sky breaks",
+      "open cerulean sky with dust-hazed horizon",
+      "amber dusk sky with pale cerulean light shafts",
+      "dark storm sky with cerulean breaks",
+      "fog-filled pale cerulean sky",
+      "starlit night sky",
+      "dust-hazed horizon under open cerulean sky"
+    ],
+    "atmosphere": [
+      "harsh midday sun casting long shadows with amber dust haze",
+      "pale cerulean light shafts piercing smoke veil",
+      "deep shadow fill in structural recesses with amber dust",
+      "harsh midday sun with loose smoke veil on horizon",
+      "amber dust haze with deep shadow fill",
+      "pale cerulean light shafts and dense shadow fill in recesses",
+      "smoke veil under harsh midday sun casting short shadows"
+    ],
+    "camera": [
+      "wide establishing shot, low angle perspective emphasizing scale",
+      "medium wide shot, horizontal framing",
+      "wide landscape shot, level horizon line",
+      "medium portrait shot, slight low angle, figure centered",
+      "tight close-up shot, extreme detail framing",
+      "wide diagonal shot, low angle emphasizing scale",
+      "medium shot, dynamic composition implying motion"
+    ],
+    "linework": [
+      "Moebius-inspired linework, variable weight outline, dense cross-hatched shading in shadowed recesses, cel animation frame, hand-inked line art",
+      "bold contour on mechanical forms, fine stippling on surfaces and textures, dense cross-hatching in shadow regions, hand-inked line art",
+      "variable weight outline, cel animation frame aesthetic, fine stippling in shadows, hand-inked line art",
+      "Moebius linework, bold cel animation edges, dense cross-hatched shading, high contrast highlights, hand-inked line art",
+      "clean variable weight outline, flat colour fill, hand-inked line art, cel animation frame",
+      "Moebius-inspired linework, sepia ink wash, variable weight outline, fine stippling in shadows, hand-inked line art"
+    ],
+    "palette": [
+      "limited palette — oxidised copper, iron grey, rust ochre, pale cerulean, charcoal shadow, bone white highlight",
+      "limited palette — warm sepia, iron grey, rust ochre, pale cerulean accents, muted earth tones",
+      "limited palette — rust ochre, charcoal shadow, iron grey, pale cerulean, vivid red accent",
+      "limited palette — charcoal shadow, bone white highlight, muted earth tones, pale cerulean, moss green accent",
+      "limited palette — oxidised copper, rust ochre, burnt sienna, pale cerulean, charcoal shadow",
+      "limited palette — warm sepia, oxidised copper, iron grey, pale cerulean, amber dust tones"
+    ],
+    "mood": [
+      "Brooding mechanical ruin evokes isolation in overgrown desolation.",
+      "Solitary contemplation amid ancient-future desolation.",
+      "Dramatic descent evokes imminent destruction in overgrown ruins.",
+      "Oppressive scale and silence define this post-apocalyptic standoff.",
+      "Quiet decay and encroaching nature reclaim the mechanical age.",
+      "Tension between dormant power and creeping organic overgrowth.",
+      "Motion-implied chaos frozen in a single ink-etched frame.",
+      "Ancient machine and living world locked in slow patient conflict.",
+      "Vast wasteland silence broken only by the hum of awakening sensors.",
+      "The weight of forgotten wars lingers in rusted silhouettes."
+    ]
+  }
+}
